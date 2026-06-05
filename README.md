@@ -53,6 +53,17 @@
 <img width="321" height="391" alt="UML" src="https://github.com/user-attachments/assets/cbfcec68-57de-42db-a529-44ce81ee5d3d" />
 
 # 程式如何安裝執行：
+### 在github的download分支終點開綠色的code按鈕
+<img width="928" height="265" alt="01" src="https://github.com/user-attachments/assets/eddbab8a-e01e-4a72-8087-547501fe8e00" /> <br>
+### 點擊Download ZIP下載
+<img width="926" height="444" alt="02" src="https://github.com/user-attachments/assets/66ea9d38-3cb7-40e0-9c93-8ec51c59c80e" /> <br>
+### 將檔案解壓縮
+### 在Visual Studio裡選擇開啟本機資料夾，找到檔案並開啟
+### 在方案總管中開啟battleship.slnx專案
+<img width="346" height="238" alt="03" src="https://github.com/user-attachments/assets/1b3ff169-f75a-43b6-9eb6-0d575551c640" /> <br>
+### 完成安裝
+### 點選上方偵錯工具後就可以開始遊玩
+<img width="182" height="34" alt="04" src="https://github.com/user-attachments/assets/686970c3-891b-4afe-8f02-c91556348c63" /> <br>
 
 # 程式畫面截圖：
 ### 放置船艦
