@@ -55,6 +55,12 @@
 # 程式如何安裝執行：
 
 # 程式畫面截圖：
+### 放置船艦
+<img width="365" height="254" alt="放置" src="https://github.com/user-attachments/assets/70605a55-c68c-4bc8-97a6-a2fb6d64d51a" /> <br> 
+### 攻擊過程
+<img width="436" height="602" alt="攻擊" src="https://github.com/user-attachments/assets/320064ac-e351-4812-8099-ba3a4e27666b" /> <br>
+### 遊戲結束
+<img width="441" height="136" alt="遊戲結束" src="https://github.com/user-attachments/assets/9ba3d7f6-c27a-4f55-a8af-0a71d5013db4" /> <br>  
 
 # 分工資訊：
 曾佩瑜：  
