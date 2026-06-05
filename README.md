@@ -42,7 +42,7 @@
 - 負責放置艦艇、顯示棋盤、處理攻擊
 
 ### Computer
-- 負責電腦的隨機放船與攻擊邏輯
+- 負責電腦的隨機放船與攻擊
 
 ### Game
 - 管理整場遊戲流程
@@ -50,6 +50,7 @@
 - 負責回合輪替與勝負判斷
 
 ## UML圖：
+<img width="321" height="391" alt="UML" src="https://github.com/user-attachments/assets/cbfcec68-57de-42db-a529-44ce81ee5d3d" />
 
 # 程式如何安裝執行：
 
