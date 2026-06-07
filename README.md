@@ -74,6 +74,6 @@
 <img width="441" height="136" alt="遊戲結束" src="https://github.com/user-attachments/assets/9ba3d7f6-c27a-4f55-a8af-0a71d5013db4" /> <br>  
 
 # 分工資訊：
-曾佩瑜：  
-徐于涵：  
-江柏毅： 
+曾佩瑜(組長)：程式碼編輯、README、UML撰寫  
+徐于涵：程式碼編輯  
+江柏毅：簡報編輯 
